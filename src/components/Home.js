@@ -25,7 +25,7 @@ Works effectively on an independent basis or as part of team.
       </div>
 
       <div className="column is-full has-text-centered">
-        <img src={me} alt="Yubaraj"></img>
+        <img src={me} alt="Yubaraj" height="200" width="200"></img>
         <br></br>
         <a href="https://github.com/yubraj" target="blank">
           Github
