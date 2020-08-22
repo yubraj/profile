@@ -1,6 +1,6 @@
 {
   "homepage": "http://yubraj.github.io/profile",
-  "name": "react-profile-page",
+  "name": "profile",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
